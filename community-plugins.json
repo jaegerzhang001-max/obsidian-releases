@@ -75311,5 +75311,12 @@
     "author": "Aleksandr L ",
     "description": "Настраиваемые действия для активной заметки. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "alexanderleo0/obsidian-action-panel"
+  },
+  {
+    "id": "concept-map-3d",
+    "name": "3D Concept Map",
+    "author": "Jäger Zhang",
+    "description": "Turn your vault into an interactive 3D concept network: render cmap blocks and build concept pages from your notes.",
+    "repo": "jaegerzhang001-max/3d-concept-map"
   }
 ]
